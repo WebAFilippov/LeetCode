@@ -31,5 +31,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/WebAFilippov/LeetCode/tree/master/0020-valid-parentheses) |
 | [2580-circular-sentence](https://github.com/WebAFilippov/LeetCode/tree/master/2580-circular-sentence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/WebAFilippov/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
