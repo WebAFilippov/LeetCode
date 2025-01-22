@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1765-merge-in-between-linked-lists](https://github.com/WebAFilippov/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+## String
+|  |
+| ------- |
+| [2580-circular-sentence](https://github.com/WebAFilippov/LeetCode/tree/master/2580-circular-sentence) |
 <!---LeetCode Topics End-->
